@@ -6,7 +6,7 @@
     --colorDeTextMain: rgba(42, 235, 225, 0.514);
     --colorDeFondoMain: yellow;
 
-    --colorDeTextFooter: rgba(97, 235, 33, 0.589);
+    --colorDeTextFooter: rgb(0, 0, 0);
     --colorDeFondoFooter: rgba(0, 0, 255, 0.253);
 }
 
